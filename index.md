@@ -6,33 +6,21 @@ title: Home
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+**Biodegradable Seed Spreading Robot**
+_Team 1: James Arnold, Katie Brauckmann, Cree Hutcherson, and Daniel Stockwell_
+_(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 ## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* How can the concepts of foldable robotics be applied to the design of a seed spreading robot that is constructed entirely from biodegradable materials?
 
-## Background
+## Subpages
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
 [link to background](/background)
 
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+[All work is based on the assignments created by Dr. Daniel Aukes](https://egr557.github.io/)
 
-
-## References
