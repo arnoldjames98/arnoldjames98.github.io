@@ -17,8 +17,7 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 ## Site Map
 
 [Team Assignment 1](/assignment1)   
-[Team Assignment 2](/assignment2)
-[Jupyter Notebook Test](/jupyterNotebookTest)    
+[Team Assignment 2](/assignment2)  
 [Bibliography](/bibliography)
 
 ## External Links
