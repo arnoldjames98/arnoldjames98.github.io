@@ -147,8 +147,11 @@ Our research question includes the requirement that possible designs apply the â
 
 [5] S. Miyashita, S. Guitron, M. Ludersdorfer, C. R. Sung and D. Rus, "An untethered miniature origami robot that self-folds, walks, swims, and degrades," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 1490-1496, doi: [10.1109/ICRA.2015.7139386](https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/7139386).
 
+
+---
 	
-The final PDF of the assignment is included below:
+	
+## PDF of Final Submission
 
 <embed src="https://arnoldjames98.github.io/assignment1.pdf" width="800" height="500" type="application/pdf" />
 
