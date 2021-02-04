@@ -6,8 +6,8 @@ title: Home
 
 ## Introduction
 
-**Biodegradable Seed Spreading Robot**
-_Team 1: James Arnold, Katie Brauckmann, Cree Hutcherson, and Daniel Stockwell_
+**Biodegradable Seed Spreading Robot** 
+_Team 1: James Arnold, Katie Brauckmann, Cree Hutcherson, and Daniel Stockwell_ 
 _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 ## Research Question
