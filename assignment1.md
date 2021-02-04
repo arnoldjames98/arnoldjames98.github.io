@@ -2,18 +2,8 @@
 title: Team Assignment 1
 ---
 
-A PDF of the assignment is included below:
 
-<embed src="https://arnoldjames98.github.io/assignment1.pdf" width="800" height="500" type="application/pdf" />
-
-
-# **Develop a Research Question **
-
-
-## Biodegradable Seed Spreading Robot 
-
-
-# Team 1: James Arnold, Katie Brauckmann, Cree Hutcherson, and Daniel Stockwell
+# Develop a Research Question
 
 
 ## **Research Question**:
@@ -28,7 +18,7 @@ _How can the concepts of foldable robotics be applied to the design of a seed sp
 
 
 1. **_Tractability_: Is your question tractable and achievable? Discuss your plan for scoping your problem to fit in a 15-week course.**
-    *   **How have you focused or constrained the problem to differentiate yourself and/or become more tractable? Examples include looking at one specific type of motion, using a specific animal as a source of inspiration (for generating unique specifications), or limiting yourself to a particular set of materials, parts, cost requirements, etc.**
+*   **How have you focused or constrained the problem to differentiate yourself and/or become more tractable? Examples include looking at one specific type of motion, using a specific animal as a source of inspiration (for generating unique specifications), or limiting yourself to a particular set of materials, parts, cost requirements, etc.**
 
 Our group’s topic for the project this semester is “Disposable/Degradable Robots.” However, the design of a foldable robot composed entirely of degradable materials is too broad of a topic due to the variety of different approaches and applications. There, we decided to focus our research this semester on an agricultural/environmental application of the idea of creating a disposable/degradable robot. The application we selected is the spreading of seeds in the environment. We chose this application because it leverages the benefits of biodegradability into the design of our robot while limiting the scope of our project to a single goal. Using only biodegradable materials will greatly limit the possible materials and approaches that we take to solving the problem of autonomous seed spreading, and this limitation will make our problem much more tractable to solve within the 15-week course.
 
@@ -42,7 +32,7 @@ The research question itself does not specify the complexity of any given design
 
 
 2. **Novelty: Is your question novel? How have you established novelty?**
-    *   **_What keywords did you use when performing a literature review on your topic?_**
+*   **_What keywords did you use when performing a literature review on your topic?_**
 
 A list of different keywords that we used when performing the literature review are included below. Many of these keywords were paired with the word “robot” or “autonomous” to narrow down our searches to robotics-oriented research, and a number of different combinations of the following keywords were used.
 
@@ -59,7 +49,8 @@ A list of different keywords that we used when performing the literature review 
         9. Foldable
         10. Origami
         11. Printable
-    *   **_What were the four most highly cited references? Provide a short summary of each, focusing on whether these papers have already done what you set out to do._**
+	
+*   **_What were the four most highly cited references? Provide a short summary of each, focusing on whether these papers have already done what you set out to do._**
 
 While previous research in degradable robotics has focused on possible medical applications, there is little research on the environmental and agricultural applications of such robots. In [1], the authors introduce a seed spreading robot for agricultural applications called “Agribot” which both ploughs and sows seeds. Agribot is a wheeled robot made of metal components and controlled by a microcontroller. While this robot is not biodegradable, its goal in spreading seeds matches our research question’s end goal._ _The seed dispenser used in [2] is another robot that was used for dispersing seeds across a field that could be used for reforestation. By utilizing a quadcopter, seed dispenser, and an Arduino coded to generate its coordinates, the user can not only control but also communicate with this device. In the event that the device fails, the operator can take control of it. Due to the amount of hardware in this device, it is not degradable and is quite large. In [3], a smart seed sowing robot was fabricated to aid in the process of sowing seeds. This robot is able to dispense seeds from a seed container, while being controlled from a mobile application. Unfortunately, this robot’s design is not biodegradable but it still aims to spread seeds like our research question. In [4], a tree planting robot was designed and prototyped. This robot is able to spread seeds by using an array of sensors, wheels and motors. This design was meant to be priced mid-range and solve the solution of deforestation. This design however, was not created to be biodegradable. This is a flaw of the widespread nature of this design, and something that this project will be aiming to improve. 
 
@@ -73,25 +64,25 @@ Unlike previous research, we intend to design a fully biodegradable robot that c
 
 
 3. **Interesting: Is your question interesting, timely, and relevant?**
-    *   **What makes it important to others?**
+*   **What makes it important to others?**
 
 Our research question is important to others since a biodegradable robot that is able to spread seeds has the potential to positively affect both people and the environment. First, the agricultural application of such a robot could increase the production of food, especially in places where buying expensive farm equipment is cost prohibitive. Our research question was selected to encourage the design of a low-cost and easy to manufacture robot, and such a robot could help those in need of assistance in food production. Another important aspect of our question is the focus on the biodegradability of the robot. With a biodegradable robot, people would be able to set-up the robot and let it spread seeds autonomously without worrying about tracking the robot to retrieve it. Therefore, such a robot could have a positive environmental impact, which is clearly important to many people.
 
 
 
-    *   **Why is this idea important now? What prevented it from being answered 10 years ago?**
+*   **Why is this idea important now? What prevented it from being answered 10 years ago?**
 
 Our idea is important now because of the usefulness of engineering devices that have a positive impact on the environment. The effects of climate change are clear, so many engineers, scientists, and policymakers must work together to address these problems. Our idea can be used for environmentally positive goals such as reforestation, but is also designed in a way such that once the robot has completed its task, it can safely decompose into the environment. Therefore, our idea is environmentally friendly in both its intended goal and design. The recently growing field of foldable robots is what allows us to answer our question now. Within the past 10 years, many researchers have developed useful foldable robotic designs and analysis methods, so now we are poised to use this technology to solve our research question using these methods.
 
 
 
-    *   **Within what contexts could other people use your results?**
+*   **Within what contexts could other people use your results?**
 
 By the end of this semester, we will have designed one possible robot that addresses our research question. This robot, if effective, could be used for applications such as agriculture or reforestation. However, since this robot is only one possible solution to our research question, other people could use our results to come up with other, possibly better solutions. From our literature review, we did not find any other research that solves our specific research question, but our results could encourage other researchers to try to tackle this problem or similar ones. Therefore, both our robot and the idea of the robot could be used by others.
 
 
 
-    *   **What are the potential broader impacts on society?**
+*   **What are the potential broader impacts on society?**
 
 As referenced previously, if we can successfully design low-cost, easy-to-manufacture robot that is biodegradable and able to spread seeds, our robot could be used for both agricultural and environmental applications. In the agricultural application, our robot could improve the efficiency of food production in disadvantaged regions of the world where expensive farming equipment is cost prohibitive. In the environmental application, reforestation is currently an important goal that our robot could be well suited for. If our robot could in fact be mass produced, many robots could be released into the environment to spread seeds and simply be left once they complete their task.
 
@@ -157,5 +148,7 @@ Our research question includes the requirement that possible designs apply the �
 [5] S. Miyashita, S. Guitron, M. Ludersdorfer, C. R. Sung and D. Rus, "An untethered miniature origami robot that self-folds, walks, swims, and degrades," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 1490-1496, doi: [10.1109/ICRA.2015.7139386](https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/7139386).
 
 	
+The final PDF of the assignment is included below:
 
+<embed src="https://arnoldjames98.github.io/assignment1.pdf" width="800" height="500" type="application/pdf" />
 
