@@ -338,7 +338,7 @@ Fig 4. From [5], a diagram of the anatomy of a single crab lab, including the ma
 _Draw the simplest engineering representation of the system you can of your proposed mechanical system. How many rigid bodies are there? How many can be approximated as massless(1/10 of the total mass or less)? Where are the springs? Where is the (main) actuator? _
 
 
-![alt_text](images/image4.jpg "image_tooltip")
+![alt_text](images/image4.png "image_tooltip")
 
 
 Fig. 5. Simple engineering representation of proposed mechanical system.
@@ -409,3 +409,10 @@ Calculating the power produced by a wind turbine being blown by this balloon is 
 [11] D. R. Merritt, and F. Weinhaus. “The pressure curve for a rubber balloon,” _American Journal of Physics_ 46, 976. 1978 DOI: [10.1119/1.11486](https://aapt-scitation-org.ezproxy1.lib.asu.edu/doi/pdf/10.1119/1.11486)
 
 [12] Y. Ng, S. Mak, and C. Chung. “Demonstration of Newton's third law using a balloon helicopter,”  _The Physics Teacher_ 40, 181 (2002); [https://doi.org/10.1119/1.1466555](https://aapt-scitation-org.ezproxy1.lib.asu.edu/doi/pdf/10.1119/1.1466555)
+
+---
+	
+	
+## PDF of Final Submission
+
+<embed src="https://arnoldjames98.github.io/assignment2.pdf" width="800" height="500" type="application/pdf" />
