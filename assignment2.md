@@ -275,6 +275,7 @@ _Collect all the information you have found from your references into one place.
   </tr>
 </table>
 
+![alt_text](images/image1.png "Figure 1")
 
 Fig. 1. Stride frequency of the ghost crab as speed increases. [2] Vertical lines are used to indicate when the crab changes its gait.
 
@@ -310,19 +311,19 @@ _Supply at least two figures from literature, highlighting key aspects of the bi
 *   _Motion plots, freeze frames of gait cycle, plot of ground reaction forces_
 *   _… other aspects of the parameters above._
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/image2.png "Figure 2")
 
 
 Fig. 2. Plot from [1]. On the left, a drawing of the anatomical structure of a single crab leg. On the right, a plot of how the mass of crab correlates with the linear dimension of the legs.
 
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/image3.png "Figure 3")
 
 
 Fig 3. This figure shows the impressions of the legs when the crab is quickly running. The smear marks, indicated by R3, are due to the crab’s legs dragging to help with its balance. The dots indicated by L3 were from the crab’s legs stepping in a precise spot without dragging. [4]
 
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/image4.png "Figure 4")
 
 
 Fig 4. From [5], a diagram of the anatomy of a single crab lab, including the main muscles used for actuation.
@@ -338,7 +339,7 @@ Fig 4. From [5], a diagram of the anatomy of a single crab lab, including the ma
 _Draw the simplest engineering representation of the system you can of your proposed mechanical system. How many rigid bodies are there? How many can be approximated as massless(1/10 of the total mass or less)? Where are the springs? Where is the (main) actuator? _
 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/image5.png "Figure 5")
 
 
 Fig. 5. Simple engineering representation of proposed mechanical system.
@@ -369,7 +370,7 @@ Analytically calculating the power produced from the release of air from a ballo
 In [11], the authors perform an analytical calculation of the pressure curve of a standard, rubber balloon, and verify their calculation through experimentation. The figure below is from the authors’ results.
 
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/image6.png "Figure 6")
 
 
 Fig. 6. Analytical (solid line) and experimental (circles) pressure curve for a rubber balloon presented in [11].
