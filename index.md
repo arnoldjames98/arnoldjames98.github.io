@@ -4,6 +4,8 @@ title: Home
 
 # Home
 
+![alt_text](images/roughSketch.png "Rough sketch of the design")
+
 ## Introduction
 
 **Biodegradable Seed Spreading Robot**  
