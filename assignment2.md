@@ -1,20 +1,4 @@
-# **Biomechanics Background and Initial Specifications **
-
-
-## Biodegradable Seed Spreading Robot 
-
-
-# Team 1: James Arnold, Katie Brauckmann, Cree Hutcherson, and Daniel Stockwell
-
-**Table of Contents**
-
-
-[TOC]
-
-
-
-## 
-
+# Biomechanics Background and Initial Specifications
 
 ## Steps of the Procedure
 
@@ -29,13 +13,13 @@ We have selected the ghost crab (Ocypode quadrata) as our candidate organism. We
 
 *   _List five of the most closely related research references on topics pertinent to your project, in IEEE format._
 
-*****[1] S. B. Whittemore, B. Hoglin, M. A. Green, and S. Medler. “Stride Frequency in Relation to Allometric Growth in Ghost Crabs: Stride Frequency in Ghost Crabs.” _Journal of Zoology_ (1987), vol. 296, no. 4, Aug. 2015, pp. 286–94, [doi:10.1111/jzo.12244](https://zslpublications-onlinelibrary-wiley-com.ezproxy1.lib.asu.edu/doi/pdfdirect/10.1111/jzo.12244).
+\* [1] S. B. Whittemore, B. Hoglin, M. A. Green, and S. Medler. “Stride Frequency in Relation to Allometric Growth in Ghost Crabs: Stride Frequency in Ghost Crabs.” _Journal of Zoology_ (1987), vol. 296, no. 4, Aug. 2015, pp. 286–94, [doi:10.1111/jzo.12244](https://zslpublications-onlinelibrary-wiley-com.ezproxy1.lib.asu.edu/doi/pdfdirect/10.1111/jzo.12244).
 
 [2] R. Blickhan and R. J. Full, “Locomotion Energetics of the Ghost Crab: II. Mechanics of the Centre of Mass During Walking and Running,” _Journal of Experimental Biology_, vol. 130, no. 1, pp. 155–174, Jul. 1987. Retrieved from [ https://jeb.biologists.org/content/jexbio/130/1/155.full.pdf](https://jeb.biologists.org/content/jexbio/130/1/155.full.pdf)
 
-*****[3] Springthorpe, D. (2016). Biomechanical Multifunctionality in the Ghost Crab, Ocypode quadrata. _UC Berkeley_. ProQuest ID: Springthorpe_berkeley_0028E_16586. Merritt ID: ark:/13030/m54z06hg. Retrieved from [https://escholarship.org/uc/item/1kh6b90z](https://escholarship.org/uc/item/1kh6b90z) 
+\* [3] Springthorpe, D. (2016). Biomechanical Multifunctionality in the Ghost Crab, Ocypode quadrata. _UC Berkeley_. ProQuest ID: Springthorpe_berkeley_0028E_16586. Merritt ID: ark:/13030/m54z06hg. Retrieved from [https://escholarship.org/uc/item/1kh6b90z](https://escholarship.org/uc/item/1kh6b90z) 
 
-*****[4] R. J. Full, R. B. Weinstein, Integrating the Physiology, Mechanics and Behavior of Rapid Running Ghost Crabs: Slow and Steady Doesn't Always Win the Race, _American Zoologist_, Volume 32, Issue 3, June 1992, Pages 382–395, [https://doi.org/10.1093/icb/32.3.382](https://doi.org/10.1093/icb/32.3.382) 
+\* [4] R. J. Full, R. B. Weinstein, Integrating the Physiology, Mechanics and Behavior of Rapid Running Ghost Crabs: Slow and Steady Doesn't Always Win the Race, _American Zoologist_, Volume 32, Issue 3, June 1992, Pages 382–395, [https://doi.org/10.1093/icb/32.3.382](https://doi.org/10.1093/icb/32.3.382) 
 
 [5] M. J. Perry, J. Tait, J. Hu, S. C. White, and S. Medler, “Skeletal muscle fiber types in the ghost crab, Ocypode quadrata: implications for running performance,” _Journal of Experimental Biology_, vol. 212, no. 5, pp. 673–683, Mar. 2009, doi:[ 10.1242/jeb.023481](https://doi.org/10.1242/jeb.023481).
 
@@ -65,13 +49,13 @@ _Search for existing bio-inspired robots based on the same animal, subsystem, an
 
 *   _List five of the most closely-related research references on topics pertinent to your project in IEEE format._
 
-*****[6] B. L. Luk, S. Galt, and S. Chen “Using Genetic Algorithms to Establish Efficient Walking Gaits for an Eight-Legged Robot.” _International Journal of Systems Science_, vol. 32, no. 6, Taylor & Francis Group, Jan. 2001, pp. 703–13, [doi:10.1080/00207720117230](https://www-tandfonline-com.ezproxy1.lib.asu.edu/doi/pdf/10.1080/00207720117230?needAccess=true).
+\* [6] B. L. Luk, S. Galt, and S. Chen “Using Genetic Algorithms to Establish Efficient Walking Gaits for an Eight-Legged Robot.” _International Journal of Systems Science_, vol. 32, no. 6, Taylor & Francis Group, Jan. 2001, pp. 703–13, [doi:10.1080/00207720117230](https://www-tandfonline-com.ezproxy1.lib.asu.edu/doi/pdf/10.1080/00207720117230?needAccess=true).
 
-*****[7] J. C. Spagna, D. I. Goldman, P.-C. Lin, D. E. Koditschek, and R. J. Full, “Distributed mechanical feedback in arthropods and robots simplifies control of rapid running on challenging terrain,” _Bioinspiration & Biomimetics_, vol. 2, no. 1, Jan. 2001, pp. 9-18, [doi:10.1088/1748-3182/2/1/002](https://iopscience.iop.org/article/10.1088/1748-3182/2/1/002/pdf)
+\* [7] J. C. Spagna, D. I. Goldman, P.-C. Lin, D. E. Koditschek, and R. J. Full, “Distributed mechanical feedback in arthropods and robots simplifies control of rapid running on challenging terrain,” _Bioinspiration & Biomimetics_, vol. 2, no. 1, Jan. 2001, pp. 9-18, [doi:10.1088/1748-3182/2/1/002](https://iopscience.iop.org/article/10.1088/1748-3182/2/1/002/pdf)
 
 [8] K. Karydis, I. Poulakakis and H. G. Tanner, "A switching kinematic model for an octapedal robot," 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems, Vilamoura, 2012, pp. 507-512, doi:10.1109/IROS.2012.6386230. 
 
-*****[9] K. Karydis, Y. Liu, I. Poulakakis, and H. G. Tanner, “A Template for Miniature Legged Robots in Quasi-Static Motion,” p. 15.
+\* [9] K. Karydis, Y. Liu, I. Poulakakis, and H. G. Tanner, “A Template for Miniature Legged Robots in Quasi-Static Motion,” p. 15.
 
 [10] F. Qian, T. Zhang,  W. Korff,  P.B. Umbanhowar, R.J Full, and D.I. Goldman. “Principles of appendage design in robots and animals determining terradynamic performance on flowable ground.” _Bioinspiration & biomimetics_, 10(5), 2015., p.056014.
 
@@ -81,7 +65,7 @@ _Search for existing bio-inspired robots based on the same animal, subsystem, an
 
 In [6], the authors investigate how to find efficient walking strategies for an 8-legged robot. They use a genetic algorithm as a method of “natural evolution emulation” since their goal is to identify the best way for their robot to walk. Therefore, the most efficient locomotion for their robot is not directly bio-inspired from a ghost crab, but instead, their bio-inspiration comes from the method which they use to explore the design space of different possible locomotion strategies. They also consider the case when one of their robot’s legs is not functional, so they can see how the robot’s gait is optimized in this case. One important point that the authors make is that the stability of the system can be increased due to the redundancy in the number of legs. The final conclusion that the authors make is that the locomotion of the robot after optimizing different methods with a genetic algorithm is “very similar to that evolved by the ghost crab.” So while this paper does not directly provide any specifications of the mechanical hardware, it is valuable because it demonstrates the ability of a robot to match the gait of the ghost crab.
 
-	In [7], the paper describes how the authors investigated the distributed mechanical feedback in arthropods and robots. They simplified the control of rapid running on challenging terrain. They found that “slow, precise stepping using distributed neural feedback” was one way for dealing with challenging terrain. Arthropods, however, simplify their control on difficult surfaces by quickly running using kinetic energy to bridge gaps between footholds [2]. This paper would be valuable for our group because the paper’s discussion around Ghost crabs, tells us how the crabs showed increased mobility on wire mesh after the addition of artificial collapsible spines. Also, their bio-inspired robot was redesigned for maximizing effective leg contact by changing leg orientation and adding directional spines, which can be useful for our own design [2]. 
+In [7], the paper describes how the authors investigated the distributed mechanical feedback in arthropods and robots. They simplified the control of rapid running on challenging terrain. They found that “slow, precise stepping using distributed neural feedback” was one way for dealing with challenging terrain. Arthropods, however, simplify their control on difficult surfaces by quickly running using kinetic energy to bridge gaps between footholds [2]. This paper would be valuable for our group because the paper’s discussion around Ghost crabs, tells us how the crabs showed increased mobility on wire mesh after the addition of artificial collapsible spines. Also, their bio-inspired robot was redesigned for maximizing effective leg contact by changing leg orientation and adding directional spines, which can be useful for our own design [2]. 
 
 Inspired by the ghost crab, [9] creates a template for 6-legged robots that can be followed for similar designs. The multi-legged robot has advantages due to its ability to easily traverse difficult terrain. This is valuable to our group as it gives a template to start from in the design of our own robot that is inspired by the ghost crab. Since there has been plenty of research on the ghost crab, it is important that the group is able to start from the forefront of this research when developing our own design. The design they came up with is a switching four-bar mechanism that features “ a low-complexity kinematic model able that captures the horizontal-plane behavior of small legged robots”. The simulation techniques used allowed them to create a relationship between the robot’s inputs to the desired model inputs. This allows the designer to compute motor gains to do “three types of motion primitives comprising straight-line paths, clockwise and counter-clockwise turns”. 
 
@@ -292,7 +276,7 @@ _Collect all the information you have found from your references into one place.
 </table>
 
 
-**Fig. 1. **Stride frequency of the ghost crab as speed increases. [2] Vertical lines are used to indicate when the crab changes its gait.
+Fig. 1. Stride frequency of the ghost crab as speed increases. [2] Vertical lines are used to indicate when the crab changes its gait.
 
 
 
@@ -306,11 +290,7 @@ _Fill in the information gaps from your biomechanics investigation with informed
 
 The force when running with the leading legs can be easily calculated by considering the mass of a large crab and inputting the given acceleration from the Table I above:
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: equation: use MathJax/LaTeX if your publishing platform supports it. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
+F=ma =>F=0.075kg*3.12N/kg=0.234N
 
 The amount of energy required by the crab’s gait is not easy to find analytically, since there is significant energy transfer between the crab and the environment, and within the crab itself: “Potential energy is converted to kinetic energy as the animal's body falls forward over stiffened legs” [5]. However, from [2], the equation for the mass-specific rate of mechanical power required to lift and accelerate the centre of mass (with velocity in m/s) was found experimentally to be 0.95 × velocity + 0.03 and is in units of W/(g×s) since it is a rate of power range per gram of weight of the crab. Therefore, for a large crab weighing 75g (from [1]) moving at 1 m/s, this quantity will be 0.97 W/(g×s). That means for the crab to accelerate and support its weight for 1 second, it will require 0.97W/(g×s) × (75g×1s) = 72.7W of power. This is a bit higher than the power required to light an incandescent light bulb (60W). It is unlikely that the crab robot we design will weigh 75g, given that we plan to use paper for the joints and links, a balloon and turbine for propulsion, and the robot will carry some number of seeds. However, since we have not yet designed the robot, we do not have a good estimate of what the final weight of the robot will be. The equation from [2] will be useful for getting an estimate of the power required by our robot during acceleration.
 
@@ -330,35 +310,22 @@ _Supply at least two figures from literature, highlighting key aspects of the bi
 *   _Motion plots, freeze frames of gait cycle, plot of ground reaction forces_
 *   _… other aspects of the parameters above._
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.png "image_tooltip")
 
 
-**Fig. 2.** Plot from [1]. On the left, a drawing of the anatomical structure of a single crab leg. On the right, a plot of how the mass of crab correlates with the linear dimension of the legs.
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Fig. 2. Plot from [1]. On the left, a drawing of the anatomical structure of a single crab leg. On the right, a plot of how the mass of crab correlates with the linear dimension of the legs.
 
 
 ![alt_text](images/image2.png "image_tooltip")
 
 
-**Fig 3.** This figure shows the impressions of the legs when the crab is quickly running. The smear marks, indicated by R3, are due to the crab’s legs dragging to help with its balance. The dots indicated by L3 were from the crab’s legs stepping in a precise spot without dragging. [4]
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+Fig 3. This figure shows the impressions of the legs when the crab is quickly running. The smear marks, indicated by R3, are due to the crab’s legs dragging to help with its balance. The dots indicated by L3 were from the crab’s legs stepping in a precise spot without dragging. [4]
 
 
 ![alt_text](images/image3.png "image_tooltip")
 
 
-**Fig 4.** From [5], a diagram of the anatomy of a single crab lab, including the main muscles used for actuation.
+Fig 4. From [5], a diagram of the anatomy of a single crab lab, including the main muscles used for actuation.
 
 
 
@@ -371,14 +338,10 @@ _Supply at least two figures from literature, highlighting key aspects of the bi
 _Draw the simplest engineering representation of the system you can of your proposed mechanical system. How many rigid bodies are there? How many can be approximated as massless(1/10 of the total mass or less)? Where are the springs? Where is the (main) actuator? _
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image4.jpg "image_tooltip")
 
 
-**Fig. 5. **Simple engineering representation of proposed mechanical system.
+Fig. 5. Simple engineering representation of proposed mechanical system.
 
 Our proposed system has only one rigid body that can not be approximated as massless. Since the goal of our robot is to be biodegradable, we will be using a (biodegradable) balloon and propellor as the means of powering our robot. This will operate as our actuator. We will also have a spring that is represented through the rubber band powered propellor. As the robot moves, seeds will come out the bottom and disperse on the ground.
 
@@ -401,23 +364,19 @@ _Find a motor and battery that can supply the mechanical power needs obtained ab
 
 Due to our design being biodegradable, a motor and battery would be impractical to power the device as they are not easily degradable within a reasonable amount of time. Because of this, another power device must be considered for the purpose of our project. Our current idea of a design includes a turbine being spun by an inflated balloon. The purpose of this balloon is to exert the air pressure from inside the balloon to mechanical spin the turbine, thus powering the machine. In order to do the calculations on how much pressure is needed to power the robot, the energy estimate is used from the ghost crab to help calculate the pressure needed when blowing up the balloon.
 
-	Analytically calculating the power produced from the release of air from a balloon is very challenging, since it requires knowledge of the surface tension of the balloon’s material, the shape of the balloon as it inflates, and considerations on the flow released from a hole in the balloon. Ideally, we could perform an experiment with a biodegradable balloon and a force plate to determine the force vs time produced from the release of air of the balloon, and how different sized and shaped nozzles impact the output flow. For this assignment, we are able to perform some rough calculations to get an idea of the order of magnitude of the power we can generate through this method. 
+Analytically calculating the power produced from the release of air from a balloon is very challenging, since it requires knowledge of the surface tension of the balloon’s material, the shape of the balloon as it inflates, and considerations on the flow released from a hole in the balloon. Ideally, we could perform an experiment with a biodegradable balloon and a force plate to determine the force vs time produced from the release of air of the balloon, and how different sized and shaped nozzles impact the output flow. For this assignment, we are able to perform some rough calculations to get an idea of the order of magnitude of the power we can generate through this method. 
 
-	In [11], the authors perform an analytical calculation of the pressure curve of a standard, rubber balloon, and verify their calculation through experimentation. The figure below is from the authors’ results.
-
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+In [11], the authors perform an analytical calculation of the pressure curve of a standard, rubber balloon, and verify their calculation through experimentation. The figure below is from the authors’ results.
 
 
 ![alt_text](images/image5.png "image_tooltip")
 
 
-**Fig. 6.** Analytical (solid line) and experimental (circles) pressure curve for a rubber balloon presented in [11].
+Fig. 6. Analytical (solid line) and experimental (circles) pressure curve for a rubber balloon presented in [11].
 
-_	_From the figure above, it is clear that there is a good deal of complexity in the analysis of the force produced by the release of air from a rubber balloon. In fact, the paper also includes the effects of hysteresis in the surface of the balloon, which is a result of the material properties of the rubber balloon. Since our group plans to use a biodegradable balloon, it is possible that we will get different results. However, some rough calculations can be made from the figure above. The force of the air coming out of a small nozzle can be estimated by the pressure of the balloon divided by the area of the hole. Of course this ignores many of the fluid mechanics considerations such as the pressure difference between the outside air and the inside of the balloon, but it provides a rough approximation. The maximum pressure of the balloon is found to be 2 dyn/cm<sup>2 </sup> which is equal to 0.2 Pa. If a 0.5 cm radius hole were cut in the balloon to allow a release of a air, the force generated at this time would be approximately 0.2/(pi*0.5^(2)) or 0.25 N.
+From the figure above, it is clear that there is a good deal of complexity in the analysis of the force produced by the release of air from a rubber balloon. In fact, the paper also includes the effects of hysteresis in the surface of the balloon, which is a result of the material properties of the rubber balloon. Since our group plans to use a biodegradable balloon, it is possible that we will get different results. However, some rough calculations can be made from the figure above. The force of the air coming out of a small nozzle can be estimated by the pressure of the balloon divided by the area of the hole. Of course this ignores many of the fluid mechanics considerations such as the pressure difference between the outside air and the inside of the balloon, but it provides a rough approximation. The maximum pressure of the balloon is found to be 2 dyn/cm<sup>2 </sup> which is equal to 0.2 Pa. If a 0.5 cm radius hole were cut in the balloon to allow a release of a air, the force generated at this time would be approximately 0.2/(pi*0.5^(2)) or 0.25 N.
 
-	Calculating the power produced by a wind turbine being blown by this balloon is also not a simple problem, since it will require a calculation of the efficiency of the turbine and how much of the force generated by the balloon pushes on the blades of the wind turbine. These calculations will require us having defined the turbine blades’ geometry. Another approach that we could take instead of the air from a balloon pushing on the blades of the turbine would be to run the air through the blades to cause rotation, as it used in balloon helicopter toys [12]. Using either approach, there will be a loss of power from the output of the balloon to the legs of the robot, while these will be important quantities to find, we will need to rely on experimentally collected data once we have made a preliminary design since there are too many unknowns right now to perform any reasonable calculations.
+Calculating the power produced by a wind turbine being blown by this balloon is also not a simple problem, since it will require a calculation of the efficiency of the turbine and how much of the force generated by the balloon pushes on the blades of the wind turbine. These calculations will require us having defined the turbine blades’ geometry. Another approach that we could take instead of the air from a balloon pushing on the blades of the turbine would be to run the air through the blades to cause rotation, as it used in balloon helicopter toys [12]. Using either approach, there will be a loss of power from the output of the balloon to the legs of the robot, while these will be important quantities to find, we will need to rely on experimentally collected data once we have made a preliminary design since there are too many unknowns right now to perform any reasonable calculations.
 
 
 
