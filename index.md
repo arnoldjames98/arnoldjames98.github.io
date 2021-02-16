@@ -20,6 +20,7 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 [Team Assignment 1](/assignment1)   
 [Team Assignment 2](/assignment2)  
+[Team Assignment 3](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemKinematics.ipynb)  
 [Bibliography](/bibliography)
 
 ## External Links
