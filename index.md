@@ -18,9 +18,10 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 ## Site Map
 
-[Team Assignment 1](/assignment1)   
-[Team Assignment 2](/assignment2)  
-[Team Assignment 3](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemKinematics.ipynb)  
+[Team Assignment 1: Research Question](/assignment1)   
+[Team Assignment 2: Biomechanics](/assignment2)  
+[Team Assignment 3: Kinematics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemKinematics.ipynb)  
+[Team Assignment 4: Dynamics I](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemDynamics.ipynb)  
 [Bibliography](/bibliography)
 
 ## External Links
