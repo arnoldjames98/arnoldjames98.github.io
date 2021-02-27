@@ -23,7 +23,6 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 [Team Assignment 3: Kinematics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemKinematics.ipynb)  
 [Team Assignment 4: Dynamics I](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemDynamics.ipynb)
 [Team Assignment 5: Presentation I](/Presentation1)
-
 [Bibliography](/bibliography)
 
 ## External Links
