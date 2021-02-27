@@ -4,7 +4,7 @@ title: Home
 
 # Home
 
-![alt_text](images/roughSketch.png "Rough sketch of the design")
+![alt_text](images/ghostCrab.jpg "Image of a ghost crab")
 
 ## Introduction
 
