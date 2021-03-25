@@ -1,5 +1,5 @@
 
-## Assignment 1
+## Research Question
 
 [1] A. Gollakota and M. B. Srinivas, "Agribot — A multipurpose agricultural robot," _2011 Annual IEEE India Conference_, Hyderabad, 2011, pp. 1-4, doi: [10.1109/INDCON.2011.6139624](https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/6139624).
 
@@ -16,7 +16,7 @@
 
 
 
-## Assignment 2
+## Biomechanics
 
 [1] S. B. Whittemore, B. Hoglin, M. A. Green, and S. Medler. “Stride Frequency in Relation to Allometric Growth in Ghost Crabs: Stride Frequency in Ghost Crabs.” _Journal of Zoology_ (1987), vol. 296, no. 4, Aug. 2015, pp. 286–94, [doi:10.1111/jzo.12244](https://zslpublications-onlinelibrary-wiley-com.ezproxy1.lib.asu.edu/doi/pdfdirect/10.1111/jzo.12244).
 
@@ -40,4 +40,19 @@
 
 [11] D. R. Merritt, and F. Weinhaus. “The pressure curve for a rubber balloon,” _American Journal of Physics_ 46, 976. 1978 DOI: [10.1119/1.11486](https://aapt-scitation-org.ezproxy1.lib.asu.edu/doi/pdf/10.1119/1.11486)
 
-[12] Y. Ng, S. Mak, and C. Chung. “Demonstration of Newton's third law using a balloon helicopter,”  _The Physics Teacher_ 40, 181 (2002); [https://doi.org/10.1119/1.1466555](https://aapt-scitation-org.ezproxy1.lib.asu.edu/doi/pdf/10.1119/1.1466555)
+[12] Y. Ng, S. Mak, and C. Chung. “Demonstration of Newton's third law using a balloon helicopter,”  _The Physics Teacher_ 40, 181 (2002); [https://doi.org/10.1119/1.1466555](https://aapt-scitation-org.ezproxy1.lib.asu.edu/doi/pdf/10.1119/1.1466555).
+
+
+---
+
+
+
+## Dynamics
+
+[1] D. M. Aukes, "Solidworks FEA Tutorial: Foldable Robotics," [Online]. Available: https://egr557.github.io/modules/compliance/solidworks-fea-tutorial.html.. [Accessed 4 March 2021].
+
+[2] S. Allaoui, Z. Aboura and M. Benzeggagh, "CONTRIBUTION TO THE MODELLING OF THE CORRUGATED," [Online]. Available: https://arxiv.org/ftp/arxiv/papers/1110/1110.5417.pdf. [Accessed 4 March 2021].
+
+[3] T. Fadiji, T. Berry, C. Coetzee and U. L. Opara, "Investigating the Mechanical Properties of Paperboard Packaging Material for Handling Fresh Produce Under Different Environmental Conditions: Experimental Analysis and Finite Element Modelling," Journal of Applied Packaging Research.
+
+[4] aqua-calc, "Density of Cardboard (material)," [Online]. Available: https://www.aqua-calc.com/page/density-table/substance/cardboard#:~:text=Density%20 of%20Cardboard%20(material)&text=Cardboard%20weighs%200.689%20gram%20per,i nch%20%5Boz%2Finch%C2%B3%5D%20.. [Accessed 4 March 2021].
