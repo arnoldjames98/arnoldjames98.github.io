@@ -24,6 +24,8 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 [Biomechanics](/assignment2)  
 [Kinematics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemKinematics.ipynb)  
 [Dynamics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemDynamicsAll.ipynb)  
+[Design and Manufacturing Workflow](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designManufacturing.ipynb)  
+[Design Optimization](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designOptimization.ipynb) 
 
 ### Presentations
 
