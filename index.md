@@ -8,13 +8,13 @@ title: Home
 
 ## Introduction
 
-**Biodegradable Seed Spreading Robot**  
+**Biodegradable Crab Leg Mechanism**  
 _Team 1: James Arnold, Katie Brauckmann, Cree Hutcherson, and Daniel Stockwell_   
 _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 ## Research Question
 
-* How can the concepts of foldable robotics be applied to the design of a seed spreading robot that is constructed entirely from biodegradable materials?
+* How can the concepts of foldable robotics be applied to the design of a crab-inspired, compliant leg mechanism constructed entirely from biodegradable materials?
 
 ## Site Map
 
@@ -32,6 +32,14 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 [Presentation I](/presentation1)  
 [Presentation II](/presentation2)  
+[Presentation II](/presentation2) 
+
+### Additonal Pages
+
+[Data](/data)   
+[Video and Image Gallery](/videoImageGallery)   
+[CAD and Other Design Files](/cadDesignFiles)   
+[Additional Code](/additionalCode)   
 
 ### References 
 
