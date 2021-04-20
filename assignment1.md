@@ -5,11 +5,15 @@ title: Team Assignment 1
 
 # Develop a Research Question
 
+Note: Our research question changed over the course of the semester project. Originally, our research question was focused on how to create a full, biodegrable crab robot which included a biodegradable power source and could support its own weight. However, once we got to the prototyping phase of our project, we realized that this research question would not be tractable within a single semester. Therefore, we shifted our focus to the design of a just the leg mechanism of the robot. By focusing on just the design of the legs, we could spend less time figuring out how to avoid using any electronic components to power the robot and instead focus on how to leverage the compliance of our biodegradable materials to optimize the performance of our robotic legs.
+
+While our research question is not completely different than the original one that we constructed when originally preparing this assignment, there is some discussion in this assignment that is specific to the old research question that we ended up changing. For context, we have not removed any of our responses that are specific to the old research question, but instead have added notes after these parts that describe how our new research question changes these responses.
+
 
 ## **Research Question**:
 
-_How can the concepts of foldable robotics be applied to the design of a crab-inspired, compliant leg mechanism constructed entirely from biodegradable materials?_
-
+Updated Reserach Question: _How can the concepts of foldable robotics be applied to the design of a crab-inspired, compliant leg mechanism constructed entirely from biodegradable materials?_
+Original Research Question: _How can the concepts of foldable robotics be applied to the design of a seed spreading robot that is constructed entirely from biodegradable materials?_
 
 
 ---
