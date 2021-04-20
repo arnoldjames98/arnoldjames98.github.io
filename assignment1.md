@@ -8,7 +8,7 @@ title: Team Assignment 1
 
 ## **Research Question**:
 
-_How can the concepts of foldable robotics be applied to the design of a seed spreading robot that is constructed entirely from biodegradable materials?_
+_How can the concepts of foldable robotics be applied to the design of a crab-inspired, compliant leg mechanism constructed entirely from biodegradable materials?_
 
 
 
