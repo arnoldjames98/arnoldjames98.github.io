@@ -28,30 +28,24 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 [Design Optimization](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designOptimization.ipynb)  
 [Data Collection and Experimental Validation](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb)  
 
-::: warning
-*here be dragons*
-:::
-
 ### Presentations
 
-[Presentation I](/presentation1)  
-[Presentation II](/presentation2)  
-[Presentation II](/presentation2) 
+[Presentation I](/presentation1) - Our first presentation on our bio-inspiration and kinematics  
+[Presentation II](/presentation2) - Our second presentation on dynamics and the initial data collection  
+[Presentation II](/presentation2) - Our final presentation on optimization, manufaturing, and experimental validation
 
 ### Additonal Pages
 
 [Data](/data) - All raw data collected throughout the project   
-
 [Video and Image Gallery](/videoImageGallery) - Raw images/videos of prototypes, designs, and experimental setups 
-  
 [CAD and Other Design Files](/cadDesignFiles) - Final versions of designs (.dxf, .sldprt, etc.) 
- 
 [Additional Code](/additionalCode) - All code created not included in the assignment pages   
 
 
 ### References 
 
-[Bibliography](/bibliography)
+[Bibliography](/bibliography) - The sources we used throughout the project   
+
 
 ## External Links
 
