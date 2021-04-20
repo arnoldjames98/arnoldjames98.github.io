@@ -20,13 +20,13 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 ### Assignments
 
-[Research Question](/assignment1)   
-[Biomechanics](/assignment2)  
-[Kinematics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemKinematics.ipynb)  
-[Dynamics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemDynamicsAll.ipynb)  
-[Design and Manufacturing Workflow](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designManufacturing.ipynb)  
-[Design Optimization](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designOptimization.ipynb)  
-[Data Collection and Experimental Validation](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb)  
+[Research Question](/assignment1) - Generating and discussing our guiding research question  
+[Biomechanics](/assignment2) - Studying and understanding the biological system we chose to focus our design on  
+[Kinematics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemKinematics.ipynb) - Here  
+[Dynamics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemDynamicsAll.ipynb) - Here  
+[Design and Manufacturing Workflow](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designManufacturing.ipynb) - Here  
+[Design Optimization](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designOptimization.ipynb) - Here  
+[Experimental Validation](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb) - Here  
 
 ### Presentations
 
