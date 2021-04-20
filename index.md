@@ -38,12 +38,16 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 [Data](/data)   
 *  All raw data collected throughout the project   
+
 [Video and Image Gallery](/videoImageGallery)   
-*  Raw images/videos of prototypes, designs, and experimental setups   
+*  Raw images/videos of prototypes, designs, and experimental setups 
+  
 [CAD and Other Design Files](/cadDesignFiles)
-*  Final versions of designs (.dxf, .sldprt, etc.)   
+*  Final versions of designs (.dxf, .sldprt, etc.) 
+ 
 [Additional Code](/additionalCode)   
 *  All code created not included in the assignment pages   
+
 
 ### References 
 
