@@ -37,9 +37,9 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 ### Additonal Pages
 
 [Data](/data) - All raw data collected throughout the project   
-[Video and Image Gallery](/videoImageGallery) - Raw images/videos of prototypes, designs, and experimental setups   
+[Video and Image Gallery](/videoImageGallery) - Raw images/videos of prototypes, designs, and experimental setups not included in other pages   
 [CAD and Other Design Files](/cadDesignFiles) - Final versions of designs (.dxf, .sldprt, etc.)   
-[Additional Code](/additionalCode) - All code created not included in the assignment pages   
+[Additional Code](/additionalCode) - All code created not included in other pages   
 
 
 ### References 
