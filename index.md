@@ -4,7 +4,7 @@ title: Home
 
 # Home
 
-![alt_text](images/ghostCrab.jpg "Image of a ghost crab")
+![alt_text](images/websiteHeader.gif "Website header")
 
 ## Introduction
 
