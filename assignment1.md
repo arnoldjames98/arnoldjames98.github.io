@@ -12,8 +12,9 @@ While our research question is not completely different than the original one th
 
 ## **Research Question**:
 
-Updated Reserach Question: _How can the concepts of foldable robotics be applied to the design of a crab-inspired, compliant leg mechanism constructed entirely from biodegradable materials?_
-Original Research Question: _How can the concepts of foldable robotics be applied to the design of a seed spreading robot that is constructed entirely from biodegradable materials?_
+**Updated Reserach Question**: _How can the concepts of foldable robotics be applied to the design of a crab-inspired, compliant leg mechanism constructed entirely from biodegradable materials?_
+
+**Original Research Question**: _How can the concepts of foldable robotics be applied to the design of a seed spreading robot that is constructed entirely from biodegradable materials?_
 
 
 ---
