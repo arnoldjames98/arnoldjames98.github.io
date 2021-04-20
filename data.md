@@ -14,7 +14,7 @@ Data (.csv) collected for the [Dynamics](https://nbviewer.jupyter.org/url/arnold
 Data (.txt) collected from the [Design Optimization](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designOptimization.ipynb) assignment. The data is in the form of a .txt file of the output of running the optimization code.
 *  [Optimization Results - Full Code Output](https://raw.githubusercontent.com/arnoldjames98/arnoldjames98.github.io/main/optimization/optimizationOutput.txt)
 
-Below is an example of how to pull data from this .txt file using regular expressions in Python.
+Below is an example of how to pull data from this .txt file using regular expressions in Python while working in Google Colab.
 ```
 # Import the Python package for regular expressions
 import re
