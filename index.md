@@ -28,6 +28,12 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 [Design Optimization](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designOptimization.ipynb)  
 [Data Collection and Experimental Validation](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb)  
 
+<meta name="twitter:card" content="summary">
+<meta property="og:title" content="Thumbnail example">
+<meta property="og:description" content="Only for Nic Cage fans">
+<meta property="og:image" content="images/ghostCrab.jpg "Image of a ghost crab">
+<meta property="og:url" content="https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb">
+
 ### Presentations
 
 [Presentation I](/presentation1)  
