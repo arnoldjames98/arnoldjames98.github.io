@@ -346,6 +346,8 @@ Fig. 5. Simple engineering representation of proposed mechanical system.
 
 Our proposed system has only one rigid body that can not be approximated as massless. Since the goal of our robot is to be biodegradable, we will be using a (biodegradable) balloon and propellor as the means of powering our robot. This will operate as our actuator. We will also have a spring that is represented through the rubber band powered propellor. As the robot moves, seeds will come out the bottom and disperse on the ground.
 
+The team has since refined the research question which additionally changes the design. Due to issues from the creating the above power system, the team shifted focus to just a single leg and making it compliant. The new mechanism will still be biodegradable, however, the refined project will be simpler to achieve in one semester. The team also expanded on the previous research question to focus on the compliance of the biodegradable materials to improve the gait of the mechanism.
+
 
 ## Discussion
 
@@ -357,6 +359,8 @@ _Discuss / defend your rationale for the size animal you selected in terms of yo
 The team decided to model our device after a ghost crab. With our project being a seed-spreading robot, the device does not need to be overly big. The ghost crab also burrows in the sand, which we can model our device to adapt it for soil. In terms of replicating key features, the crab is a design that we can replicate remotely because it is not overly difficult compared to other animals that could work for our project. We can use household items to replicate the movement of the crab, and find materials that can aid with dispensing the seed onto the ground.
 
 Another benefit of selecting the ghost crab as our candidate organism that we will draw bio-inspiration from is that ghost crabs can vary greatly in size by orders of magnitude [1]. Therefore, previous researchers who have studied the kinematics and energy requirements of ghost crabs often present their findings as functions of the crab’s mass. Therefore, our group can design our robot to be any size within the large range of possible ghost crab sizes and we can still directly use the findings from previous research for considerations such as size of the legs or frequency of the gait.
+
+The team will still be focusing on replicating the movement of the crab, however the focus has shifted to only one leg. The team refined the research question to a compliant crab leg mechanism. The seed spreading device will no longer be used for research.
 
 
 ### Question 2: Torque Generation
