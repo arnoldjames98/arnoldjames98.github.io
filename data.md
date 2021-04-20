@@ -5,4 +5,8 @@ title: Data
 
 # Data
 
-Note: Below is...
+Data (.csv) collected for the [Experimental Validation](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb) assignment. Each row of data is the timestep. The columns are indicated at the top of each file.
+
+*  [Low Stiffness Experiment - Motion Capture Data](https://raw.githubusercontent.com/arnoldjames98/arnoldjames98.github.io/main/lowStiff/data_low.csv) 
+*  [Medium Stiffness Experiment - Motion Capture Data](https://raw.githubusercontent.com/arnoldjames98/arnoldjames98.github.io/main/mediumStiff/data_medium.csv) 
+*  [High Stiffness Experiment - Motion Capture Data](https://raw.githubusercontent.com/arnoldjames98/arnoldjames98.github.io/main/highStiff/data_high.csv) 
