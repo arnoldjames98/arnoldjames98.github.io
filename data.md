@@ -16,7 +16,9 @@ Data (.txt) collected from the [Design Optimization](https://nbviewer.jupyter.or
 
 Below is an example of how to pull data from this .txt file using regular expressions in Python.
 ```
+# Import the Python package for regular expressions
 import re
+
 # Pull the .txt file containing the output
 !npx degit arnoldjames98/arnoldjames98.github.io/optimization -f
 
