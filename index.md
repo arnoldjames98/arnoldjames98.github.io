@@ -16,7 +16,7 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 * How can the concepts of foldable robotics be applied to the design of a crab-inspired, compliant leg mechanism constructed entirely from biodegradable materials?
 
-## Site Map
+## Pages
 
 ### Assignments
 
