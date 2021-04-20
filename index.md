@@ -28,11 +28,19 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 [Design Optimization](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designOptimization.ipynb)  
 [Data Collection and Experimental Validation](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb)  
 
-<meta name="twitter:card" content="summary">
-<meta property="og:title" content="Thumbnail example">
-<meta property="og:description" content="Only for Nic Cage fans">
-<meta property="og:image" content="images/ghostCrab.jpg "Image of a ghost crab">
-<meta property="og:url" content="https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb">
+<div class="project">
+    <!-- This is the project image -->
+    <img class="project-thumbnail" src="imgs/project.png">
+    
+    <!-- This div contains the project information -->
+    <div class="project-content">
+        <h3>Sample Project</h3>
+        <p>This is a cool project that does things</p>
+        
+        <!-- We added our button here! -->
+        <a href="https://example.com"><button>Project Link</button></a>
+    </div>
+</div>
 
 ### Presentations
 
