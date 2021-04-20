@@ -22,17 +22,17 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 [Research Question](/assignment1) - Generating and discussing our guiding research question  
 [Biomechanics](/assignment2) - Studying and understanding the biological system we chose to focus our design on  
-[Kinematics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemKinematics.ipynb) - Here  
-[Dynamics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemDynamicsAll.ipynb) - Here  
-[Design and Manufacturing Workflow](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designManufacturing.ipynb) - Here  
-[Design Optimization](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designOptimization.ipynb) - Here  
-[Experimental Validation](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb) - Here  
+[Kinematics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemKinematics.ipynb) - Creating the kinematic model to estimate the forces/torques, power requirements, and speed of our system  
+[Dynamics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemDynamicsAll.ipynb) - Adding in the impedance properties of our system (interia, damping, and stiffness) to understand how the real system will move and react to the envionrment  
+[Design and Manufacturing Workflow](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designManufacturing.ipynb) - Developing the plan for how to create our prototype  
+[Design Optimization](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/designOptimization.ipynb) - Using our dynamics model to determine how to create our prototype with the optimal performance  
+[Experimental Validation](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/dataCollection.ipynb) - Running the experiments with our prototype and performing data analysis to understand the system's performance in real-life  
 
 ### Presentations
 
-[Presentation I](/presentation1) - Our first presentation on our bio-inspiration and kinematics  
-[Presentation II](/presentation2) - Our second presentation on dynamics and the initial data collection  
-[Presentation II](/presentation2) - Our final presentation on optimization, manufaturing, and experimental validation
+[Presentation I](/presentation1) - Our first presentation on the bio-inspiration and kinematics  
+[Presentation II](/presentation2) - Our second presentation on the dynamics and initial data collection  
+[Presentation III](/presentation3) - Our final presentation on the optimization, manufaturing, and experimental validation
 
 ### Additonal Pages
 
