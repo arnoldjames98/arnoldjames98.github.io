@@ -2,6 +2,7 @@
 title: Presentation II
 ---
 
+**Note**: This presentation was given to the class before we had updated our research question.
 
 # Video of Recorded Presentation
 
