@@ -30,7 +30,7 @@ _(e-mails: {jmarnol6, kbrauckm, chutche1, dcstockw}@asu.edu)_
 
 <div class="project">
     <!-- This is the project image -->
-    <img class="project-thumbnail" src="imgs/project.png">
+    <img class="project-thumbnail" src=images/ghostCrab.jpg>
     
     <!-- This div contains the project information -->
     <div class="project-content">
