@@ -7,7 +7,7 @@
 
 _Identify a candidate organism you wish to focus on its biomechanics. This consists of a specific animal species, its body plan, and the motion of interest. Search in Google scholar, using keywords such as “anatomy,” “morphology,” “mechanics,” “biomechanics,” “ground reaction forces,” etc. along with the animal’s informal or scientific name along with the type of locomotion._
 
-We have selected the ghost crab (Ocypode quadrata) as our candidate organism. We believe this animal is of an appropriate size and would be suitable for our seed spreading application.
+We have selected the ghost crab (Ocypode quadrata) as our candidate organism. We believe this animal is of an appropriate size and would be suitable for our single leg mechanism.
 
 
 
