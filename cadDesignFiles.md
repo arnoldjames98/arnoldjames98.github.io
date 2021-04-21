@@ -23,5 +23,8 @@ An animation of the assembly can be seen below.
 ![alt_text](images/foldableAnimation_Trim.gif)
 
 ---
+CAD file created for the Solidworks FEA section of the Dynamics II Prep assignment. The folder than contained all outputs in addition to the part files can be downloaded as a .zip file.
+* [Download FEA Analysis](https://github.com/arnoldjames98/arnoldjames98.github.io/blob/main/other/FEA.zip?raw=true)
+* [Download SolidWorks Part](https://github.com/arnoldjames98/arnoldjames98.github.io/blob/main/other/FEA.SLDPRT?raw=true)
 
-
+---
