@@ -10,6 +10,9 @@ CAD files (.sldasm) created for the [Design and Manufacturing Workflow](https://
 
 *  [Download Full Assembly](https://github.com/arnoldjames98/arnoldjames98.github.io/blob/main/other/singleLegAssemb.zip?raw=true)
 
+An animation of the assembly can be seen below.
+![alt_text](images/foldableAnimation_Trim.gif "Animation of SolidWorks Assembly")
+
 ---
 
 
