@@ -336,7 +336,7 @@ Fig 4. From [5], a diagram of the anatomy of a single crab lab, including the ma
 
 ### Step 6: Engineering Representation
 
-_Draw the simplest engineering representation of the system you can of your proposed mechanical system. How many rigid bodies are there? How many can be approximated as massless(1/10 of the total mass or less)? Where are the springs? Where is the (main) actuator? _
+Draw the simplest engineering representation of the system you can of your proposed mechanical system. How many rigid bodies are there? How many can be approximated as massless(1/10 of the total mass or less)? Where are the springs? Where is the (main) actuator?
 
 Note: This response has been updated to reflect our updated research question of designing a compliant leg mechanism. The original response is included below the updated one for context.
 
@@ -344,9 +344,11 @@ Note: This response has been updated to reflect our updated research question of
 
 Fig. 5A. Simple engineering representation of proposed mechanical system (updated version).
 
-Our proposed system has
+Our proposed system has 6 unique rigid bodies for each leg, and additional rigid body that used to represent the contact of the leg with the a plate which the legs are supporting. In our experimental validation, we chose to build our leg mechanisms upside down so that we could control the weight of the plate above it, rather than being constrained by the weight of the leg mechanism itself while performing tests. Therefore, the purple rigid body is connected to the ground and therefore can be considered massless. The yellow input link (connected to the main actuator of a motor) can also be modeled as massless since it is connected to ground.
 
+The springs and dampers in the system are modeled at three of the joints (those joints that will be made by folding our material) and the blue end-effector link is modeled as compliant so contains an internal spring. Therefore, the blue, end-effector link could be modeled as two separate rigid bodies rather connected by a spring, which would bring the total rigid bodies in each leg to 7 up from 6. 
 
+Below is the old response below we had updated our research question. The drawing is somewhat misleading as it does not explain how the actuator is connected to the mechanism. However, we did not end up needed to design a biodegradable actuator as our original research question would have required us to do.
 
 ![alt_text](images/image5.png "Figure 5B")
 
