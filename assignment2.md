@@ -338,11 +338,20 @@ Fig 4. From [5], a diagram of the anatomy of a single crab lab, including the ma
 
 _Draw the simplest engineering representation of the system you can of your proposed mechanical system. How many rigid bodies are there? How many can be approximated as massless(1/10 of the total mass or less)? Where are the springs? Where is the (main) actuator? _
 
+Note: This response has been updated to reflect our updated research question of designing a compliant leg mechanism. The original response is included below the updated one for context.
 
-![alt_text](images/image5.png "Figure 5")
+![alt_text](images/engineerRep.png "Figure 5A")
+
+Fig. 5A. Simple engineering representation of proposed mechanical system (updated version).
+
+Our proposed system has
 
 
-Fig. 5. Simple engineering representation of proposed mechanical system.
+
+![alt_text](images/image5.png "Figure 5B")
+
+
+Fig. 5B. Simple engineering representation of proposed mechanical system (original version).
 
 Our proposed system has only one rigid body that can not be approximated as massless. Since the goal of our robot is to be biodegradable, we will be using a (biodegradable) balloon and propellor as the means of powering our robot. This will operate as our actuator. We will also have a spring that is represented through the rubber band powered propellor. As the robot moves, seeds will come out the bottom and disperse on the ground.
 
