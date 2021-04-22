@@ -295,6 +295,7 @@ F=ma =>F=0.075kg*3.12N/kg=0.234N
 
 The amount of energy required by the crab’s gait is not easy to find analytically, since there is significant energy transfer between the crab and the environment, and within the crab itself: “Potential energy is converted to kinetic energy as the animal's body falls forward over stiffened legs” [5]. However, from [2], the equation for the mass-specific rate of mechanical power required to lift and accelerate the centre of mass (with velocity in m/s) was found experimentally to be 0.95 × velocity + 0.03 and is in units of W/(g×s) since it is a rate of power range per gram of weight of the crab. Therefore, for a large crab weighing 75g (from [1]) moving at 1 m/s, this quantity will be 0.97 W/(g×s). That means for the crab to accelerate and support its weight for 1 second, it will require 0.97W/(g×s) × (75g×1s) = 72.7W of power. This is a bit higher than the power required to light an incandescent light bulb (60W). It is unlikely that the crab robot we design will weigh 75g, given that we plan to use paper for the joints and links, a balloon and turbine for propulsion, and the robot will carry some number of seeds. However, since we have not yet designed the robot, we do not have a good estimate of what the final weight of the robot will be. The equation from [2] will be useful for getting an estimate of the power required by our robot during acceleration.
 
+**Note:** After we updated our research question, the payload estimations that we performed here become less important, since our robot would no longer carry seeds or have any requirement of holding its actuators/power sources on board. Our focus transistioned to the design of the legs and we could select the weight that is pushing on the legs since we'd place a weight on top of the legs.
 
 
 ---
@@ -367,11 +368,11 @@ The team has since refined the research question which additionally changes the 
 
 _Discuss / defend your rationale for the size animal you selected in terms of your ability to replicate key features remotely with limited material selection._
 
+**Note:** After we refined our research question to focus on the design of a compliant crab leg mechanism, we no longer needed to focus on the seed-spreading application of our robot. However, since this was our original goal when building the prototype (when we selected the scale of the legs), the goal of seed-spreading did influence our design, so the response below is still important for understanding why we picked the scale of device that we did.
+
 The team decided to model our device after a ghost crab. With our project being a seed-spreading robot, the device does not need to be overly big. The ghost crab also burrows in the sand, which we can model our device to adapt it for soil. In terms of replicating key features, the crab is a design that we can replicate remotely because it is not overly difficult compared to other animals that could work for our project. We can use household items to replicate the movement of the crab, and find materials that can aid with dispensing the seed onto the ground.
 
 Another benefit of selecting the ghost crab as our candidate organism that we will draw bio-inspiration from is that ghost crabs can vary greatly in size by orders of magnitude [1]. Therefore, previous researchers who have studied the kinematics and energy requirements of ghost crabs often present their findings as functions of the crab’s mass. Therefore, our group can design our robot to be any size within the large range of possible ghost crab sizes and we can still directly use the findings from previous research for considerations such as size of the legs or frequency of the gait.
-
-The team will still be focusing on replicating the movement of the crab, however the focus has shifted to only one leg. The team refined the research question to a compliant crab leg mechanism. The seed spreading device will no longer be used for research.
 
 
 ### Question 2: Torque Generation
