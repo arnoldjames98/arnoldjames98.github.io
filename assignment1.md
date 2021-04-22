@@ -61,7 +61,7 @@ Note: Some of these searches are specific to the old research question focused o
 	
 *   **_What were the four most highly cited references? Provide a short summary of each, focusing on whether these papers have already done what you set out to do._**
 
-**Updated Response**: Some of the references cited are specific to the seed spreading application that we originally had planned to focus on.
+**Updated Response**: All of the references cited below are specific to the seed spreading application that we originally had planned to focus on. Therefore, we have found four new articles that are more focused on our updated research question. The first is [refA], the authors dynamically model a water running robot that uses both Klann Linkage mechanisms and compliance to optimize running on water. Since we decided to also use a Klann linkage mechanism to mechanically recreate a crab-like gait and we also consider using compliance to futher improve this mechanism for our task, this paper was interesting. [CONTINUE HERE]
 
 **Original Response**: While previous research in degradable robotics has focused on possible medical applications, there is little research on the environmental and agricultural applications of such robots. In [1], the authors introduce a seed spreading robot for agricultural applications called “Agribot” which both ploughs and sows seeds. Agribot is a wheeled robot made of metal components and controlled by a microcontroller. While this robot is not biodegradable, its goal in spreading seeds matches our research question’s end goal._ _The seed dispenser used in [2] is another robot that was used for dispersing seeds across a field that could be used for reforestation. By utilizing a quadcopter, seed dispenser, and an Arduino coded to generate its coordinates, the user can not only control but also communicate with this device. In the event that the device fails, the operator can take control of it. Due to the amount of hardware in this device, it is not degradable and is quite large. In [3], a smart seed sowing robot was fabricated to aid in the process of sowing seeds. This robot is able to dispense seeds from a seed container, while being controlled from a mobile application. Unfortunately, this robot’s design is not biodegradable but it still aims to spread seeds like our research question. In [4], a tree planting robot was designed and prototyped. This robot is able to spread seeds by using an array of sensors, wheels and motors. This design was meant to be priced mid-range and solve the solution of deforestation. This design however, was not created to be biodegradable. This is a flaw of the widespread nature of this design, and something that this project will be aiming to improve. 
 
@@ -163,6 +163,8 @@ Unlike previous research, we intend to design a fully biodegradable robot that c
 
 
 ## References
+
+[refA] H. Kim, Y. Liu, K. Jeong, M. Sitti and T. Seo, "Dynamic analysis on hexapedal water-running robot with compliant joints," 2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI), 2017, pp. 250-251, doi: 10.1109/URAI.2017.7992797.
 
 [1] A. Gollakota and M. B. Srinivas, "Agribot — A multipurpose agricultural robot," _2011 Annual IEEE India Conference_, Hyderabad, 2011, pp. 1-4, doi: [10.1109/INDCON.2011.6139624](https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/6139624).
 
