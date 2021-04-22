@@ -5,7 +5,7 @@ title: Team Assignment 1
 
 # Develop a Research Question
 
-Note: Our research question changed over the course of the semester project. Originally, our research question was focused on how to create a full, biodegrable crab robot which included a biodegradable power source and could support its own weight. However, once we got to the prototyping phase of our project, we realized that this research question would not be tractable within a single semester. Therefore, we shifted our focus to the design of a just the leg mechanism of the robot. By focusing on just the design of the legs, we could spend less time figuring out how to avoid using any electronic components to power the robot and instead focus on how to leverage the compliance of our biodegradable materials to optimize the performance of our robotic legs.
+**Note:** Our research question changed over the course of the semester project. Originally, our research question was focused on how to create a full, biodegrable crab robot which included a biodegradable power source and could support its own weight. However, once we got to the prototyping phase of our project, we realized that this research question would not be tractable within a single semester. Therefore, we shifted our focus to the design of a just the leg mechanism of the robot. By focusing on just the design of the legs, we could spend less time figuring out how to avoid using any electronic components to power the robot and instead focus on how to leverage the compliance of our biodegradable materials to optimize the performance of our robotic legs.
 
 While our research question is not completely different than the original one that we constructed when originally preparing this assignment, there is some discussion in this assignment that is specific to the old research question that we ended up changing. For context, we have not removed any of our responses that are specific to the old research question, but instead have added notes after these parts that describe how our new research question changes these responses.
 
@@ -14,7 +14,7 @@ While our research question is not completely different than the original one th
 
 **Updated Reserach Question**: _How can the concepts of foldable robotics be applied to the design of a **crab-inspired, compliant leg mechanism** constructed entirely from biodegradable materials?_
 
-Original Research Question: _How can the concepts of foldable robotics be applied to the design of a **seed spreading robot** that is constructed entirely from biodegradable materials?_
+**Original Research Question:** _How can the concepts of foldable robotics be applied to the design of a **seed spreading robot** that is constructed entirely from biodegradable materials?_
 
 
 ---
@@ -114,7 +114,7 @@ Unlike previous research, we intend to design a fully biodegradable robot that c
 
 **Open-Ended: Is your question open-ended? Could it leave room for a deeper look if given more time and resources? Discuss how you have structured your research question to permit further, deeper investigation.**
 
-**Updated Response**: Here
+**Updated Response**: While our updated research question is more focused than the original one in terms of our team's goal, the updated research question is actually more open ended in terms of its applications. While previously we had focused on a single task specific application of our biodegrable crab robot, the updated research question is not limited to a single application. Therefore, there are many directions that could be taken from our question that would allow for depper investigation.
 
 **Original Response**: The question that was created by the group is an open-ended question. It does not suggest a certain solution to the problem and allows room for the group to explore the question with multiple designs. It is not a goal-based question and does not start with the phrases “what” or “can.” This means that the question is not aimed at achieving a specific goal and is not a yes or no question. We have structured the question to leave space open to explore any possibilities within the field of foldable robotics to find a solution for seed spreading. That said, there are no specifics required for the robot in terms of its movement/locomotion, size, or the specific materials that we plan to use.
 
@@ -138,9 +138,9 @@ Unlike previous research, we intend to design a fully biodegradable robot that c
 
 **Team Fit: How does answering this question leverage your interests and abilities?**
 
-**_James:_** **Updated Response**: Here
+**_James (Original Response):_** Our updated research question even better leverages my interests and abilities than the first research question. While I still think the focus on biodegradability is positive and useful, I am interested in how to design mechanically intelligent systems. I think that improving on the Klaan linkage mechanism by incorporating compliance into the links is an interesting research topic since it has many applications to robotics.
 
-**Original Response**: I’m interested in the design of robotic devices that have the ability to positively impact society, and I believe that if we can successfully design a simple and manufacturable device that autonomously plants seeds, our robot could have a very positive impact. For example, our robot could be used in reforestation efforts, but also be low cost so that it is accessible to countries that are the most negatively impacted by deforestation.
+**_James (Original Response):_** I’m interested in the design of robotic devices that have the ability to positively impact society, and I believe that if we can successfully design a simple and manufacturable device that autonomously plants seeds, our robot could have a very positive impact. For example, our robot could be used in reforestation efforts, but also be low cost so that it is accessible to countries that are the most negatively impacted by deforestation.
 
 **_Cree:_** This project leverages my interests by working with a device that can benefit others. I am also interested in foldable robotics as a whole. I am always interested in finding different and creative ways to solve problems. My abilities are leveraged with some manufacturing and fabrication techniques that can be applied to this project. I enjoy working with my hands and applying the foldable application is part of what I want to do with my degree.
 
@@ -157,7 +157,7 @@ Unlike previous research, we intend to design a fully biodegradable robot that c
 
 **Topic Fit: How does the question use foldable robotics techniques to answer it?**
 
-**Updated Response**: Here
+**Updated Response**: The following response is still mostly accurate, since both our original and updated research questions focus on biodegrability, which lends itself to using foldable robotics techniques, since many foldable materials are also biodegradable (paper, cardboard, etc.). However, our updated research questions also includes the idea of using compliance to improve our design. Compliance can be used to make our design more mechanically intelligent so that the material properties of the leg mechanism are used to improve the functionality of the mechanism. Since many foldable materials are also compliant, and their compliance can be tuned by adding or removing material, focusing our research question on the use of compliance futher lends itself to using foldable robotics techniques to answer our research question.
 
 **Original Response**: Our research question includes the requirement that possible designs apply the “concepts of foldable robotics,” though this statement alone does not demonstrate that our question was selected to be conducive to designs using foldable robotics. However, the biodegradability constraint and the application to seed spreading together suggest that foldable robotics is highly applicable to this problem. The biodegradability required by our design means that our design cannot include common materials used in robotics, most notably common metal materials used for robotic structures and electronics. Foldable robotic devices aim to use compliant materials that can be used for both the links and joints of robotic mechanisms, and many of these materials (e.g., paper) are biodegradable. The application of our design to seed spreading was selected so that the biodegradability of the design is desirable, since then a robot spreading seeds does not need to be recovered after it has completed its task, and will not cause environmental harm. Foldable robots can also have the benefit of being highly manufacturable, and this characteristic would be desirable for a robot that is intended to be left in the environment after it completes its task.
 
@@ -179,6 +179,8 @@ Unlike previous research, we intend to design a fully biodegradable robot that c
 	
 	
 ## PDF of Final Submission
+
+Note: This does not include the updates made after changes were made in later assignments.
 
 <embed src="https://arnoldjames98.github.io/assignment1.pdf" width="800" height="500" type="application/pdf" />
 
