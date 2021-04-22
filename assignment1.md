@@ -138,7 +138,7 @@ Unlike previous research, we intend to design a fully biodegradable robot that c
 
 **Team Fit: How does answering this question leverage your interests and abilities?**
 
-**_James (Original Response):_** Our updated research question even better leverages my interests and abilities than the first research question. While I still think the focus on biodegradability is positive and useful, I am interested in how to design mechanically intelligent systems. I think that improving on the Klaan linkage mechanism by incorporating compliance into the links is an interesting research topic since it has many applications to robotics.
+**_James (Original Response):_** Our updated research question even better leverages my interests and abilities than the first research question. While I still think the focus on biodegradability is positive and useful, I am interested in how to design mechanically intelligent systems. I think that improving on the Klann linkage mechanism by incorporating compliance into the links is an interesting research topic since it has many applications to robotics.
 
 **_James (Original Response):_** I’m interested in the design of robotic devices that have the ability to positively impact society, and I believe that if we can successfully design a simple and manufacturable device that autonomously plants seeds, our robot could have a very positive impact. For example, our robot could be used in reforestation efforts, but also be low cost so that it is accessible to countries that are the most negatively impacted by deforestation.
 
