@@ -31,6 +31,6 @@ A collection of images of the experimental set-up from the [Experimental Validat
 
 ---
 
-An image of the first iteration of the foldable Klaan linkage mechanism.
+An image of the first iteration of the foldable Klann linkage mechanism.
 ![alt_text](images/IMG_4301.jpeg)
 
