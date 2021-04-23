@@ -44,5 +44,5 @@ A collection of images of the stiffness experiment performed as an individual as
 *  Weights of Selected Objects
 ![alt_text](images/Cantilever/Button.jpg)
 ![alt_text](images/Cantilever/Earbuds.jpg)
-![alt_text](images/Cantilever/FlashDrive.jpg)
+![alt_text](images/Cantilever/FlashDrive.png)
 ![alt_text](images/Cantilever/Scissors+Earbuds.jpg)
