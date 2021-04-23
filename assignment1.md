@@ -42,7 +42,7 @@ The research question itself does not specify the complexity of any given design
 
 A list of different keywords that we used when performing the literature review are included below. Many of these keywords were paired with the word “robot” or “autonomous” to narrow down our searches to robotics-oriented research, and a number of different combinations of the following keywords were used.
 
-Note: Some of these searches are specific to the old research question focused on designing a seed spreading robot. However, most of these searches are still relevant to our updated research question. One additional one specific to the design of the legs is "klann linkage."
+**Note**: Some of these searches are specific to the old research question focused on designing a seed spreading robot. However, most of these searches are still relevant to our updated research question. One additional one specific to the design of the legs is "klann linkage." Note that keywords 12-14 were added after the research question was updated.
 
 
 
@@ -58,10 +58,12 @@ Note: Some of these searches are specific to the old research question focused o
         10. Origami
         11. Printable
         12. Klann Linkage
+        13. Compliance
+        14. Stiffness
 	
 *   **_What were the four most highly cited references? Provide a short summary of each, focusing on whether these papers have already done what you set out to do._**
 
-**Updated Response**: All of the references cited below are specific to the seed spreading application that we originally had planned to focus on. Therefore, we have found four new articles that are more focused on our updated research question. The first is [refA], the authors dynamically model a water running robot that uses both Klann Linkage mechanisms and compliance to optimize running on water. Since we decided to also use a Klann linkage mechanism to mechanically recreate a crab-like gait and we also consider using compliance to futher improve this mechanism for our task, this paper was interesting. [CONTINUE HERE]
+**Updated Response**: All of the references cited below are specific to the seed spreading application that we originally had planned to focus on. Therefore, we have found four new articles that are more focused on our updated research question. The first is [refA], the authors dynamically model a water running robot that uses both Klann Linkage mechanisms and compliance to optimize running on water. Since we decided to also use a Klann linkage mechanism to mechanically recreate a crab-like gait and we also consider using compliance to futher improve this mechanism for our task, this paper was interesting. Another important article that we considered when answering our research was [refB], where the authors propose a manufacturing framework for designing foldable robots. Since our research question explicitly includes that we must use the concept of the foldable robotics to answer our research question, having background on the manufacturing of foldable robots is important. Another important aspect of our research question is that our design will be crab-inspired. Therefore, we looked at previous literature focused on the design of crab like robots, like the work presented in [refC]. While this research is not recent, it is focused on the design of a controller for a crab-inspired robot and was therefore of interest to our group. The final piece of our research question was how to make the robot biodegradable. From our literature review, it seemed that most biodegradable robots are microrobots for medical application. Since we planned to use cardboard, we also searched for robots made out of this material.
 
 **Original Response**: While previous research in degradable robotics has focused on possible medical applications, there is little research on the environmental and agricultural applications of such robots. In [1], the authors introduce a seed spreading robot for agricultural applications called “Agribot” which both ploughs and sows seeds. Agribot is a wheeled robot made of metal components and controlled by a microcontroller. While this robot is not biodegradable, its goal in spreading seeds matches our research question’s end goal._ _The seed dispenser used in [2] is another robot that was used for dispersing seeds across a field that could be used for reforestation. By utilizing a quadcopter, seed dispenser, and an Arduino coded to generate its coordinates, the user can not only control but also communicate with this device. In the event that the device fails, the operator can take control of it. Due to the amount of hardware in this device, it is not degradable and is quite large. In [3], a smart seed sowing robot was fabricated to aid in the process of sowing seeds. This robot is able to dispense seeds from a seed container, while being controlled from a mobile application. Unfortunately, this robot’s design is not biodegradable but it still aims to spread seeds like our research question. In [4], a tree planting robot was designed and prototyped. This robot is able to spread seeds by using an array of sensors, wheels and motors. This design was meant to be priced mid-range and solve the solution of deforestation. This design however, was not created to be biodegradable. This is a flaw of the widespread nature of this design, and something that this project will be aiming to improve. 
 
@@ -164,7 +166,11 @@ Unlike previous research, we intend to design a fully biodegradable robot that c
 
 ## References
 
-[refA] H. Kim, Y. Liu, K. Jeong, M. Sitti and T. Seo, "Dynamic analysis on hexapedal water-running robot with compliant joints," 2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI), 2017, pp. 250-251, doi: 10.1109/URAI.2017.7992797.
+[refA] H. Kim, Y. Liu, K. Jeong, M. Sitti and T. Seo, "Dynamic analysis on hexapedal water-running robot with compliant joints," _2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)_, 2017, pp. 250-251, doi: 10.1109/URAI.2017.7992797.
+
+[refB] D. Aukes, B. Goldberg, M. Cutkosky, and R. Wood, "An analytic framework for developing inherently-manufacturable pop-up laminate devices," _2014 Smart Mater. Struct._ 23 pp. 094013, doi: 10.1088/0964-1726/23/9/094013.
+
+[refC] W. C. Flannigan, G. M. Nelson and R. D. Quinn, "Locomotion controller for a crab-like robot," Proceedings. _1998 IEEE International Conference on Robotics and Automation_ (Cat. No.98CH36146), 1998, pp. 152-156 vol.1, doi: 10.1109/ROBOT.1998.676345.
 
 [1] A. Gollakota and M. B. Srinivas, "Agribot — A multipurpose agricultural robot," _2011 Annual IEEE India Conference_, Hyderabad, 2011, pp. 1-4, doi: [10.1109/INDCON.2011.6139624](https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/6139624).
 
