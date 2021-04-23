@@ -1,15 +1,23 @@
 
 ## Research Question
 
-[1] A. Gollakota and M. B. Srinivas, "Agribot — A multipurpose agricultural robot," _2011 Annual IEEE India Conference_, Hyderabad, 2011, pp. 1-4, doi: [10.1109/INDCON.2011.6139624](https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/6139624).
+[1] H. Kim, Y. Liu, K. Jeong, M. Sitti and T. Seo, "Dynamic analysis on hexapedal water-running robot with compliant joints," _2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)_, 2017, pp. 250-251, doi: 10.1109/URAI.2017.7992797.
 
-[2] E. Fortes, “Seed Plant Drone for Reforestation”, _Bridgewater State University_, 2017, Accessed: 29- Jan- 2021, [Online]. Available: [https://vc.bridgew.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1033&context=grad_rev](https://vc.bridgew.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1033&context=grad_rev). 
+[2] D. Aukes, B. Goldberg, M. Cutkosky, and R. Wood, "An analytic framework for developing inherently-manufacturable pop-up laminate devices," _2014 Smart Mater. Struct._ 23 pp. 094013, doi: 10.1088/0964-1726/23/9/094013.
 
-[3] P. Kumar and G. Ashok, “Design and fabrication of smart seed sowing robot”, _Materials Today: Proceedings,_ 2020, Accessed: 31-Jan-2021, [Online]. Available: [https://doi.org/10.1016/j.matpr.2020.07.432](https://doi.org/10.1016/j.matpr.2020.07.432) 
+[3] W. C. Flannigan, G. M. Nelson and R. D. Quinn, "Locomotion controller for a crab-like robot," Proceedings. _1998 IEEE International Conference on Robotics and Automation_ (Cat. No.98CH36146), 1998, pp. 152-156 vol.1, doi: 10.1109/ROBOT.1998.676345.
 
-[4] S. Prajapati, S. Rai, M. Mali, M. Kumar, and A. Kumar, “AUTOMATIC TREE PLANTING ROBOT,” vol. 8, no. 3, p. 6, 2020.
+[4] M. Vespignani, K. Melo, M. Mutlu and A. J. Ijspeert, "Compliant snake robot locomotion on horizontal pipes," 2015 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), 2015, pp. 1-8, doi: 10.1109/SSRR.2015.7442941.
 
-[5] S. Miyashita, S. Guitron, M. Ludersdorfer, C. R. Sung and D. Rus, "An untethered miniature origami robot that self-folds, walks, swims, and degrades," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 1490-1496, doi: [10.1109/ICRA.2015.7139386](https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/7139386).
+[5] A. Gollakota and M. B. Srinivas, "Agribot — A multipurpose agricultural robot," _2011 Annual IEEE India Conference_, Hyderabad, 2011, pp. 1-4, doi: [10.1109/INDCON.2011.6139624](https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/6139624).
+
+[6] E. Fortes, “Seed Plant Drone for Reforestation”, _Bridgewater State University_, 2017, Accessed: 29- Jan- 2021, [Online]. Available: [https://vc.bridgew.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1033&context=grad_rev](https://vc.bridgew.edu/cgi/viewcontent.cgi?referer=https://scholar.google.com/&httpsredir=1&article=1033&context=grad_rev). 
+
+[7] P. Kumar and G. Ashok, “Design and fabrication of smart seed sowing robot”, _Materials Today: Proceedings,_ 2020, Accessed: 31-Jan-2021, [Online]. Available: [https://doi.org/10.1016/j.matpr.2020.07.432](https://doi.org/10.1016/j.matpr.2020.07.432) 
+
+[8] S. Prajapati, S. Rai, M. Mali, M. Kumar, and A. Kumar, “AUTOMATIC TREE PLANTING ROBOT,” vol. 8, no. 3, p. 6, 2020.
+
+[9] S. Miyashita, S. Guitron, M. Ludersdorfer, C. R. Sung and D. Rus, "An untethered miniature origami robot that self-folds, walks, swims, and degrades," 2015 IEEE International Conference on Robotics and Automation (ICRA), Seattle, WA, 2015, pp. 1490-1496, doi: [10.1109/ICRA.2015.7139386](https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/7139386).
 
 
 ---
