@@ -33,16 +33,3 @@ A collection of images of the experimental set-up from the [Experimental Validat
 
 An image of the first iteration of the foldable Klann linkage mechanism.
 ![alt_text](images/IMG_4301.jpeg)
-
----
-
-A collection of images of the stiffness experiment performed as an individual assignment (by Cree) for the [Dynamics](https://nbviewer.jupyter.org/url/arnoldjames98.github.io/systemDynamicsAll.ipynb) assignment from different angles than those included on the assignment page.
-
-*  Calculations
-![alt_text](images/Cantilever/FullData.jpg)
-
-*  Weights of Selected Objects
-![alt_text](images/Cantilever/Button.jpg)
-![alt_text](images/Cantilever/Earbuds.jpg)
-![alt_text](images/Cantilever/FlashDrive.png)
-![alt_text](images/Cantilever/Scissors+Earbuds.jpg)
